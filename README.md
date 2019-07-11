@@ -8,3 +8,5 @@ linux configer file
  
  third, install plugin use command in shell `vim +BundleInstall +qall`;
  
+ fourth: compile YCM: python3 install.py --go-complete 
+ 
