@@ -4,3 +4,4 @@ linux configer file
  first, move .vimrc to $HOME;
  then, move folder .vim to $HOME;
  third, install plugin use command in shell `vim +BundleInstall +qall`;
+ 
